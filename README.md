@@ -1,30 +1,27 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!--              ANIMATED HEADER               -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
+<!-- ══════════════ ANIMATED HEADER ══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,50:2575fc,100:00d2ff&height=240&section=header&text=Parth%20Karetiya&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=74&descSize=18&descColor=c3f0ff" />
 
 <br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&width=700&height=65&lines=Hey+There!+I'm+Parth+Karetiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let%27s+Build+Something+Great!+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&width=720&height=65&lines=Hey+There!+I'm+Parth+Karetiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let%27s+Build+Something+Great!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- STATUS BADGES (no followers/views) -->
+<!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/Open%20to%20Work-✅ Yes-00c853?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
 <img src="https://img.shields.io/badge/Location-India 🇮🇳-ff6b6b?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-f7971e?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-f7971e?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
 <img src="https://img.shields.io/badge/Stack-MERN-6a11cb?style=for-the-badge&labelColor=0d0d0d" />
 
 <br/><br/>
 
-<!-- ── CLICKABLE SOCIAL ICON BADGES ── -->
+<!-- CLICKABLE SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/parth-karetiya-640a00371/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -61,7 +58,8 @@
 
   **Hi! I'm Parth Karetiya** — a passionate Full Stack Developer from 🇮🇳 India.
 
-  I build **modern, performant, and scalable** web applications using the MERN stack — crafting pixel-perfect UIs with React and architecting robust backends with Node.js & MongoDB.
+  I build **modern, performant, and scalable** web applications using the MERN stack —
+  crafting pixel-perfect UIs with React and architecting robust backends with Node.js & MongoDB.
 
   > *"Great software lives at the intersection of clean code, solid architecture, and great user experience."*
 
@@ -71,9 +69,10 @@
 
 <div align="center">
 
-| 🔭 **Building** | Full-Stack MERN apps & production-grade REST APIs |
+| | |
 |:---|:---|
-| 🌱 **Learning** | Next.js 14 App Router, Advanced React & System Design |
+| 🔭 **Building** | Full-Stack MERN apps & production-grade REST APIs |
+| 🌱 **Learning** | Next.js 14, Advanced React & System Design |
 | 🤝 **Collaborating** | Open Source MERN & community web projects |
 | 💡 **Exploring** | Backend Architecture & Microservices |
 | 💬 **Ask Me About** | React · Node.js · Express · MongoDB · REST APIs |
@@ -84,27 +83,56 @@
 
 ---
 
-## 🌈 Tech Stack
+## 🌈 Tech Stack & Tools
 
 <div align="center">
 
 ### 🟡 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css&theme=dark" />
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### 🔵 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,angular&theme=dark" />
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
 ### 🟢 Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ### 🟠 Cloud, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,vscode,figma,postman&theme=dark" />
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 </div>
 
@@ -133,96 +161,44 @@
 
 <div align="center">
 
-<!-- Row 1: Stats + Streak (using reliable alternative endpoints) -->
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ParthKaretiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d2ff&icon_color=6a11cb&text_color=c9d1d9&cache_seconds=1800" />
 &nbsp;
-<img height="180px" src="https://github-readme-streak-stats-eight.vercel.app?user=ParthKaretiya&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=ff6b6b&currStreakLabel=00d2ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
-<!-- Row 2: Top Languages -->
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
-
-<br/><br/>
-
-<!-- Row 3: Profile Summary Cards (very reliable) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthKaretiya&theme=tokyonight" width="98%" />
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthKaretiya&theme=tokyonight" width="96%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthKaretiya&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthKaretiya&theme=tokyonight" width="31%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthKaretiya&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthKaretiya&theme=tokyonight" width="31%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthKaretiya&theme=tokyonight&utcOffset=5.5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthKaretiya&theme=tokyonight&utcOffset=5.5" width="31%" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParthKaretiya&theme=tokyo-night&hide_border=true&area=true&area_color=6a11cb&line=00d2ff&point=ffffff&color=c9d1d9" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParthKaretiya&theme=tokyo-night&hide_border=true&area=true&area_color=6a11cb&line=00d2ff&point=ffffff&color=c9d1d9" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=ParthKaretiya&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthKaretiya/ParthKaretiya/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthKaretiya/ParthKaretiya/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ParthKaretiya/ParthKaretiya/output/github-snake-dark.svg" width="98%" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ParthKaretiya/ParthKaretiya/output/github-snake-dark.svg" width="96%" />
   </picture>
 </div>
-
-<details>
-<summary>⚙️ <strong>How to activate the Snake Animation — click to expand</strong></summary>
-
-<br/>
-
-In your profile repo (`ParthKaretiya/ParthKaretiya`), create the file **`.github/workflows/snake.yml`** with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ParthKaretiya
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake Animation → Run workflow**. Done! ✅
-
-</details>
 
 ---
 
@@ -301,11 +277,8 @@ CSS / HTML   █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-<!-- ANIMATED FOOTER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d2ff&height=130&section=footer&animation=fadeIn" />
-  <p>
-    <em>⭐ If you found my profile useful, please star my repos — it really means a lot!<br/>
-    Made with ❤️ and lots of ☕ by <a href="https://github.com/ParthKaretiya"><strong>Parth Karetiya</strong></a></em>
-  </p>
+  <p><em>⭐ If you found my profile useful, please star my repos — it really means a lot!<br/>
+  Made with ❤️ and lots of ☕ by <a href="https://github.com/ParthKaretiya"><strong>Parth Karetiya</strong></a></em></p>
 </div>
