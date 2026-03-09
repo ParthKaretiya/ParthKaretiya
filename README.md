@@ -135,31 +135,51 @@
 
 ---
 
-## 🎯 Skill Proficiency
+## 🚀 What I Bring to the Table
 
 <div align="center">
 
-| Technology | Level | Proficiency |
-|:-----------|:-----:|:-----------:|
-| ⚛️ React.js | Expert | `██████████░` 95% |
-| 🟩 Node.js | Expert | `█████████░░` 90% |
-| 🔥 Express.js | Expert | `█████████░░` 90% |
-| 🍃 MongoDB | Advanced | `█████████░░` 88% |
-| 🎨 Tailwind CSS | Expert | `██████████░` 92% |
-| 🔷 Next.js | Advanced | `████████░░░` 80% |
-| ☁️ AWS / GCP | Intermediate | `██████░░░░░` 60% |
-| 🐳 Docker | Intermediate | `███████░░░░` 65% |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🎨  Frontend Magic       →   React · Next.js · Tailwind       ║
+║   ⚙️  Backend Power        →   Node.js · Express · REST APIs    ║
+║   🗄️  Data Mastery         →   MongoDB · MySQL · Firebase       ║
+║   ☁️  Cloud Ready          →   AWS · Google Cloud · Docker      ║
+║   🔧  Dev Tooling          →   Git · Postman · Figma · VSCode   ║
+║   📱  Mobile Ready         →   React Native                     ║
+║   🔐  Auth & Security      →   JWT · OAuth · Firebase Auth      ║
+║   🌐  API Design           →   REST · JSON · CRUD Architecture  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 💡 What I'm Great At
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParthKaretiya&theme=tokyo-night&hide_border=true&area=true&area_color=6a11cb&line=00d2ff&point=ffffff&color=c9d1d9" />
+| 🏆 Strength | 💬 Description |
+|:------------|:---------------|
+| 🧠 **Problem Solving** | Breaking complex problems into clean, scalable solutions |
+| 🎨 **UI/UX Thinking** | Building interfaces that are both beautiful and intuitive |
+| ⚡ **API Development** | Designing fast, secure & well-structured REST APIs |
+| 🗄️ **Database Design** | Structuring efficient schemas in MongoDB & MySQL |
+| 🔄 **Full-Stack Flow** | Seamlessly connecting frontend & backend end-to-end |
+| 🤝 **Team Collaboration** | Writing clean, documented code others love to work with |
+| 📦 **Shipping Products** | Taking ideas from zero → deployed, production-ready apps |
 
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParthKaretiya&theme=tokyo-night&hide_border=true&area=true&area_color=6a11cb&line=00d2ff&point=ffffff&color=c9d1d9" />
 </div>
 
 ---
@@ -176,16 +196,6 @@
 
 ---
 
-## ⏱️ Weekly Dev Breakdown
-
-```text
-JavaScript   ████████████████░░░░░   78%
-TypeScript   ████░░░░░░░░░░░░░░░░░   18%
-CSS / HTML   █░░░░░░░░░░░░░░░░░░░░    4%
-```
-
----
-
 ## 🚀 What I'm Focused On
 
 <div align="center">
@@ -196,7 +206,6 @@ CSS / HTML   █░░░░░░░░░░░░░░░░░░░░    
 | 🌱 **Learning** | Next.js 14, Advanced React Patterns & System Design |
 | 👯 **Collaborating** | Open Source MERN projects & GitHub community tools |
 | 🤝 **Exploring** | Microservices, Backend Architecture & Cloud Deployment |
-| 💬 **Expert In** | React, Node.js, Express.js, MongoDB, REST APIs |
 | 🎯 **Goal** | Build impactful, scalable & user-centric web applications |
 
 </div>
