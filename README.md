@@ -1,25 +1,40 @@
 <div align="center">
 
-<!-- Header Banner with Cylinder Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:141e30,100:243b55&height=180&section=header&text=Parth%20Karetiya&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=75&descSize=16&descColor=90cdf4"/>
+<!-- Animated Colorful Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,50:2575fc,100:00d2ff&height=220&section=header&text=Parth%20Karetiya&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=75&descSize=17&descColor=c3f0ff"/>
 
-<!-- Animated Typing -->
+<!-- Animated Typing SVG -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=90CDF4&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%8C%90;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let%27s+Build+Something+Great+Together!+%F0%9F%A4%9D" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&height=60&lines=Hey+There!+I'm+Parth+Karetiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let%27s+Build+Something+Great!+%F0%9F%A4%9D" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Badges Row -->
+<!-- Colorful Badges Row -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=parthkaretiya&label=Profile+Views&color=1a56db&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=parthkaretiya&label=Profile+Views&color=6a11cb&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/ParthKaretiya?tab=followers">
-    <img src="https://img.shields.io/github/followers/parthkaretiya?label=Followers&style=for-the-badge&color=1a56db&labelColor=0d1b2a" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/parthkaretiya?label=Followers&style=for-the-badge&color=2575fc&labelColor=0d0d0d" alt="Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&labelColor=0d1b2a" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85%20Yes-00c853?style=for-the-badge&labelColor=0d0d0d" alt="Open to Work"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-1a56db?style=for-the-badge&labelColor=0d1b2a" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-ff6b6b?style=for-the-badge&labelColor=0d0d0d" alt="India"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-f7971e?style=for-the-badge&labelColor=0d0d0d" alt="Focus"/>
+</p>
+
+<!-- Social Quick Links -->
+<p>
+  <a href="https://linkedin.com/in/parthkaretiya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://twitter.com/parthkaretiya01"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:parth.karetiya.cg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.leetcode.com/parthkaretiya"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  &nbsp;
+  <a href="https://github.com/ParthKaretiya"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
@@ -28,43 +43,60 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding gif"/>
 
-Hi, I'm **Parth Karetiya** — a passionate **Full Stack Developer** from India 🇮🇳
+Hi! I'm **Parth Karetiya**, a passionate and dedicated **Full Stack Developer** from 🇮🇳 India.
 
-I specialize in building modern, performant, and scalable web applications using the **MERN stack**. I enjoy transforming complex problems into clean, elegant solutions and I'm always on the lookout for opportunities to learn and collaborate.
+I love building **modern, performant, and scalable** web applications from the ground up. From crafting pixel-perfect UIs with React to architecting robust backends with Node.js and MongoDB — I handle it all.
 
-- 🔭 &nbsp; Currently building **Full-Stack MERN projects & scalable REST APIs**
-- 🌱 &nbsp; Learning **Advanced React patterns, Next.js 14 & System Design**
-- 🤝 &nbsp; Looking to collaborate on **Open Source MERN stack projects**
-- 💡 &nbsp; Seeking guidance on **System Design & Backend Architecture**
+I believe great software is built at the intersection of **clean code**, **solid architecture**, and **great user experience**. I'm constantly pushing myself to learn new technologies, contribute to open source, and ship meaningful projects.
+
+- 🔭 &nbsp; Currently building **Full-Stack MERN apps & production-grade REST APIs**
+- 🌱 &nbsp; Leveling up in **Next.js 14, Advanced React & System Design**
+- 🤝 &nbsp; Open to collaborate on **Open Source & community web projects**
+- 💡 &nbsp; Looking to grow in **Backend Architecture & Microservices**
 - 💬 &nbsp; Ask me about **React · Node.js · Express · MongoDB · REST APIs**
-- 📬 &nbsp; Reach me at **parth.karetiya.cg@gmail.com**
-- ⚡ &nbsp; Fun fact — I turn ☕ coffee into clean code!
+- 📬 &nbsp; Reach me: **parth.karetiya.cg@gmail.com**
+- ⚡ &nbsp; Fun fact — I debug with `console.log` and I'm proud of it 😄
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌈 Skills & Tech Stack
 
 <div align="center">
 
-**Languages**
-
+### 💛 Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css&theme=dark" alt="Languages"/>
 
-**Frontend**
-
+### 🩵 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,angular&theme=dark" alt="Frontend"/>
 
-**Backend & Database**
+### 💚 Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend & Database"/>
+### 🧡 Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,vscode,figma,postman&theme=dark" alt="Tools"/>
 
-**Cloud & Tools**
+</div>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,vscode,figma,postman&theme=dark" alt="Cloud & Tools"/>
+---
+
+## 🎨 Skill Proficiency
+
+<div align="center">
+
+| Technology | Proficiency |
+|-----------|-------------|
+| ⚛️ React.js | ██████████░ 95% |
+| 🟩 Node.js | █████████░░ 90% |
+| 🍃 MongoDB | █████████░░ 88% |
+| 🔥 Express.js | █████████░░ 90% |
+| 🔷 Next.js | ████████░░░ 80% |
+| 🎨 Tailwind CSS | ██████████░ 92% |
+| ☁️ AWS / GCP | ██████░░░░░ 60% |
+| 🐳 Docker | ███████░░░░ 65% |
 
 </div>
 
@@ -74,48 +106,73 @@ I specialize in building modern, performant, and scalable web applications using
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthkaretiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=90cdf4&icon_color=90cdf4&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthkaretiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d2ff&icon_color=6a11cb&text_color=c9d1d9&border_radius=12" alt="GitHub Stats"/>
 &nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkaretiya&theme=tokyonight&hide_border=true&background=0d1117&ring=90cdf4&fire=f6ad55&currStreakLabel=90cdf4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkaretiya&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=ff6b6b&currStreakLabel=00d2ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=90cdf4&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthkaretiya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthkaretiya&theme=tokyo-night&hide_border=true&area=true&area_color=6a11cb&line=00d2ff&point=ffffff&color=c9d1d9" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthkaretiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=parthkaretiya&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🚀 What I'm Focused On
+## 🔥 Featured Projects
 
 <div align="center">
 
-| Area | Details |
-|------|---------|
-| 🔭 **Building** | Full-Stack MERN apps, REST APIs & scalable web platforms |
-| 🌱 **Learning** | Next.js 14 App Router, Advanced React & System Design |
-| 👯 **Collaborating** | Open Source MERN projects & developer community tools |
-| 🤝 **Exploring** | Backend architecture, microservices & cloud deployment |
+<a href="https://github.com/ParthKaretiya">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=parthkaretiya&repo=parthkaretiya&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=6a11cb&text_color=c9d1d9&border_radius=12" alt="Pinned Repo 1"/>
+</a>
+
+</div>
+
+> 💡 **Tip:** Replace the repo names above with your actual project repo names to showcase your best work!
+
+---
+
+## 🚀 What I'm Focused On Right Now
+
+<div align="center">
+
+| 🔮 Area | 📌 Details |
+|--------|-----------|
+| 🔭 **Building** | Full-Stack MERN apps, production REST APIs & scalable platforms |
+| 🌱 **Learning** | Next.js 14 App Router, Advanced React Patterns & System Design |
+| 👯 **Collaborating** | Open Source MERN projects & GitHub community web apps |
+| 🤝 **Exploring** | Microservices, Backend Architecture & Cloud Deployment |
 | 💬 **Expert In** | React, Node.js, Express.js, MongoDB, REST APIs |
+| 🎯 **Goal** | Build impactful, scalable & user-centric web applications |
 | 📫 **Contact** | parth.karetiya.cg@gmail.com |
 
 </div>
+
+---
+
+## ⏱️ Weekly Development Breakdown
+
+```text
+JavaScript    ████████████████░░░░   78%
+TypeScript    ████░░░░░░░░░░░░░░░░   18%
+CSS / HTML    █░░░░░░░░░░░░░░░░░░░    4%
+```
 
 ---
 
@@ -147,20 +204,46 @@ I specialize in building modern, performant, and scalable web applications using
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💼%20Open%20to%20Collaborations-6a11cb?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀%20Available%20for%20Freelance-2575fc?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/❤️%20Loves%20Open%20Source-00d2ff?style=for-the-badge&logoColor=black"/>
+
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 💡 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
 ---
 
-<!-- Footer Wave -->
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:243b55,100:141e30&height=110&section=footer&animation=fadeIn" alt="Footer"/>
-  <p><em>⭐ If you find my profile useful, consider starring my repos — it means a lot! &nbsp;|&nbsp; Made with ❤️ by <a href="https://github.com/ParthKaretiya">Parth Karetiya</a></em></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthKaretiya/ParthKaretiya/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthKaretiya/ParthKaretiya/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ParthKaretiya/ParthKaretiya/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+> 🔧 To activate the snake, create `.github/workflows/snake.yml` in your profile repo. See [Platane/snk](https://github.com/Platane/snk) for the setup guide.
+
+---
+
+<!-- Colorful Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d2ff&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20my%20repos%20if%20you%20like%20them!-f7971e?style=for-the-badge&labelColor=0d0d0d"/>
+  </p>
+  <p><em>Made with ❤️ and lots of ☕ by <a href="https://github.com/ParthKaretiya"><strong>Parth Karetiya</strong></a></em></p>
 </div>
