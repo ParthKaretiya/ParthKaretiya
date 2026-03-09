@@ -162,7 +162,7 @@ From crafting pixel-perfect UIs with React to architecting robust backends with 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthKaretiya&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ParthKaretiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </div>
 
 ---
