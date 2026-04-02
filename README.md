@@ -84,42 +84,8 @@
 
 ---
 
-## ✨ Skill Proficiency
 
-<div align="center">
 
-### 🔵 Frontend
-
-| Skill | Proficiency |
-|:------|:-----------|
-| ⚛️ React | ![95%](https://img.shields.io/badge/95%25-★★★★★-61DAFB?style=flat-square&labelColor=20232A&logo=react&logoColor=61DAFB) |
-| ▲ Next.js | ![80%](https://img.shields.io/badge/80%25-★★★★☆-white?style=flat-square&labelColor=000000&logo=nextdotjs&logoColor=white) |
-| 🌊 Tailwind CSS | ![90%](https://img.shields.io/badge/90%25-★★★★★-38B2AC?style=flat-square&labelColor=0f172a&logo=tailwind-css&logoColor=white) |
-| 🔷 TypeScript | ![75%](https://img.shields.io/badge/75%25-★★★★☆-3178C6?style=flat-square&labelColor=0d0d0d&logo=typescript&logoColor=white) |
-| 🔴 Angular | ![65%](https://img.shields.io/badge/65%25-★★★☆☆-DD0031?style=flat-square&labelColor=0d0d0d&logo=angular&logoColor=white) |
-
-### 🟢 Backend & Database
-
-| Skill | Proficiency |
-|:------|:-----------|
-| 🟢 Node.js | ![92%](https://img.shields.io/badge/92%25-★★★★★-339933?style=flat-square&labelColor=0d0d0d&logo=nodedotjs&logoColor=white) |
-| ⚡ Express.js | ![90%](https://img.shields.io/badge/90%25-★★★★★-white?style=flat-square&labelColor=404D59&logo=express&logoColor=white) |
-| 🍃 MongoDB | ![88%](https://img.shields.io/badge/88%25-★★★★★-47A248?style=flat-square&labelColor=0d0d0d&logo=mongodb&logoColor=white) |
-| 🐬 MySQL | ![75%](https://img.shields.io/badge/75%25-★★★★☆-4479A1?style=flat-square&labelColor=0d0d0d&logo=mysql&logoColor=white) |
-| 🔥 REST APIs | ![95%](https://img.shields.io/badge/95%25-★★★★★-ff6b6b?style=flat-square&labelColor=0d0d0d) |
-
-### 🟠 DevOps & Tools
-
-| Skill | Proficiency |
-|:------|:-----------|
-| 🔶 Git | ![93%](https://img.shields.io/badge/93%25-★★★★★-F05032?style=flat-square&labelColor=0d0d0d&logo=git&logoColor=white) |
-| 🐳 Docker | ![65%](https://img.shields.io/badge/65%25-★★★☆☆-2496ED?style=flat-square&labelColor=0d0d0d&logo=docker&logoColor=white) |
-| ☁️ AWS | ![60%](https://img.shields.io/badge/60%25-★★★☆☆-FF9900?style=flat-square&labelColor=0d0d0d&logo=amazonaws&logoColor=white) |
-| 🔥 Firebase | ![78%](https://img.shields.io/badge/78%25-★★★★☆-FFCA28?style=flat-square&labelColor=0d0d0d&logo=firebase&logoColor=black) |
-
-</div>
-
----
 
 ## 📊 GitHub Stats Dashboard
 
