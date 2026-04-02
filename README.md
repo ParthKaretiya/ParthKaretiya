@@ -149,15 +149,6 @@ crafting pixel-perfect UIs with React and architecting robust backends with Node
 
 ---
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
