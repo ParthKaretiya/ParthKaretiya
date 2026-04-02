@@ -92,30 +92,6 @@ crafting pixel-perfect UIs with React and architecting robust backends with Node
 </div>
 
 
-
-
-
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParthKaretiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=6a11cb&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=ParthKaretiya&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6a11cb&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=10" />
-
-<br/><br/>
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=ParthKaretiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Metrics
