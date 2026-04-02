@@ -442,29 +442,7 @@
   </picture>
 </div>
 
----
 
-## 🚀 What I'm Focused On
-
-<div align="center">
-
-| 🔮 Area | 📌 Details |
-|:--------|:-----------|
-| 🔭 **Building** | Full-Stack MERN apps, production REST APIs & scalable platforms |
-| 🌱 **Learning** | Next.js 14, Advanced React Patterns & System Design |
-| 👯 **Collaborating** | Open Source MERN projects & GitHub community tools |
-| 🤝 **Exploring** | Microservices, Backend Architecture & Cloud Deployment |
-| 🎯 **Goal** | Build impactful, scalable & user-centric web applications |
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</div>
 
 ---
 
