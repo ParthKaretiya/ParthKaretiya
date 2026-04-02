@@ -21,30 +21,12 @@
 
 <br/><br/>
 
-<!-- CLICKABLE SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/parth-karetiya-640a00371/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<!-- ANIMATED PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=ParthKaretiya&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" />
 &nbsp;
-<a href="https://x.com/ParthKaretiya01" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+<img src="https://img.shields.io/github/followers/ParthKaretiya?style=for-the-badge&color=2575fc&labelColor=0d0d0d&label=FOLLOWERS" />
 &nbsp;
-<a href="https://www.youtube.com/@ParthKaretiya0" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/fuvaLE5xdK/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://github.com/ParthKaretiya" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:parth.karetiya.cg@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/github/stars/ParthKaretiya?style=for-the-badge&color=00d2ff&labelColor=0d0d0d&label=TOTAL+STARS" />
 
 </div>
 
@@ -78,6 +60,34 @@
 | 💬 **Ask Me About** | React · Node.js · Express · MongoDB · REST APIs |
 | 📬 **Reach Me** | parth.karetiya.cg@gmail.com |
 | ⚡ **Fun Fact** | I turn ☕ coffee into clean code — one `console.log` at a time 😄 |
+
+
+<!-- CLICKABLE SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/parth-karetiya-640a00371/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/ParthKaretiya01" target="_blank">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@ParthKaretiya0" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/fuvaLE5xdK/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://github.com/ParthKaretiya" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:parth.karetiya.cg@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
 
 </div>
 
@@ -135,43 +145,67 @@
 
 ---
 
-## 🚀 What I Bring to the Table
+## 📊 GitHub Statistics
 
+<!-- ROW 1: Stats + Streak side by side -->
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParthKaretiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=6a11cb&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKaretiya&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=2575fc" />
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🎨  Frontend Magic       →   React · Next.js · Tailwind       ║
-║   ⚙️  Backend Power        →   Node.js · Express · REST APIs    ║
-║   🗄️  Data Mastery         →   MongoDB · MySQL · Firebase       ║
-║   ☁️  Cloud Ready          →   AWS · Google Cloud · Docker      ║
-║   🔧  Dev Tooling          →   Git · Postman · Figma · VSCode   ║
-║   📱  Mobile Ready         →   React Native                     ║
-║   🔐  Auth & Security      →   JWT · OAuth · Firebase Auth      ║
-║   🌐  API Design           →   REST · JSON · CRUD Architecture  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
+<!-- ROW 2: Top Languages (pie/donut style) -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<br/>
+
+<!-- ROW 3: Top Languages compact bar -->
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=10" />
+</div>
+
+<br/>
+
+<!-- ROW 4: WakaTime / Detailed Stats -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParthKaretiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&icon_color=00d2ff&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<br/>
+
+<!-- ROW 5: GitHub Trophies -->
+<div align="center">
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=ParthKaretiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
 
-## 💡 What I'm Great At
+## 📈 Contribution Metrics
+
+<!-- Contribution Stats Card -->
+<div align="center">
+  <img width="96%" src="https://github-contributor-stats.vercel.app/api?username=ParthKaretiya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</div>
+
+<br/>
+
+<!-- GitHub Metrics / Detailed infographic -->
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthKaretiya&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthKaretiya&theme=tokyonight&utcOffset=5.5" />
+</div>
+
+<br/>
 
 <div align="center">
-
-| 🏆 Strength | 💬 Description |
-|:------------|:---------------|
-| 🧠 **Problem Solving** | Breaking complex problems into clean, scalable solutions |
-| 🎨 **UI/UX Thinking** | Building interfaces that are both beautiful and intuitive |
-| ⚡ **API Development** | Designing fast, secure & well-structured REST APIs |
-| 🗄️ **Database Design** | Structuring efficient schemas in MongoDB & MySQL |
-| 🔄 **Full-Stack Flow** | Seamlessly connecting frontend & backend end-to-end |
-| 🤝 **Team Collaboration** | Writing clean, documented code others love to work with |
-| 📦 **Shipping Products** | Taking ideas from zero → deployed, production-ready apps |
-
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthKaretiya&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthKaretiya&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthKaretiya&theme=tokyonight" />
 </div>
 
 ---
@@ -196,6 +230,36 @@
 
 ---
 
+## 🎯 Skill Proficiency
+
+<!-- Animated skill bars via badge shields -->
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-95%25-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-80%25-white?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind-90%25-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0f172a)
+![TypeScript](https://img.shields.io/badge/TypeScript-75%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d0d0d)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-92%25-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d0d0d)
+![Express.js](https://img.shields.io/badge/Express.js-90%25-white?style=flat-square&logo=express&logoColor=black&labelColor=404D59)
+![MongoDB](https://img.shields.io/badge/MongoDB-88%25-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d0d0d)
+![REST API](https://img.shields.io/badge/REST%20API-95%25-ff6b6b?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d0d0d)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-93%25-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d0d0d)
+![Docker](https://img.shields.io/badge/Docker-65%25-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d0d0d)
+![AWS](https://img.shields.io/badge/AWS-60%25-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E)
+![Firebase](https://img.shields.io/badge/Firebase-78%25-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0d0d0d)
+
+</div>
+
+---
+
 ## 🚀 What I'm Focused On
 
 <div align="center">
@@ -216,6 +280,13 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+</div>
+
+<br/>
+
+<!-- Random Joke for fun -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="60%" />
 </div>
 
 ---
