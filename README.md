@@ -67,7 +67,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 | | |
 |:---|:---|
@@ -79,7 +79,7 @@
 | 📬 **Reach Me** | parth.karetiya.cg@gmail.com |
 | ⚡ **Fun Fact** | I turn ☕ coffee into clean code — one `console.log` at a time 😄 |
 
-</div>
+</div> -->
 
 ---
 
@@ -135,9 +135,9 @@
 
 ---
 
-## 🚀 What I Bring to the Table
 
-<div align="center">
+
+<!-- <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -154,13 +154,13 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+</div> -->
 
 ---
 
-## 💡 What I'm Great At
 
-<div align="center">
+
+<!-- <div align="center">
 
 | 🏆 Strength | 💬 Description |
 |:------------|:---------------|
@@ -172,7 +172,7 @@
 | 🤝 **Team Collaboration** | Writing clean, documented code others love to work with |
 | 📦 **Shipping Products** | Taking ideas from zero → deployed, production-ready apps |
 
-</div>
+</div> -->
 
 ---
 
@@ -212,11 +212,11 @@
 
 ---
 
-## 💬 Dev Quote of the Day
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</div>
+</div> -->
 
 ---
 
